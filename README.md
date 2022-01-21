@@ -1,5 +1,5 @@
 ### Project Title
-MVM Foundation
+We Care
 
 ### Project Description
 A Web Application for a charity foundation.
